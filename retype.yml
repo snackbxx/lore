@@ -1,0 +1,12 @@
+url: thelore.moe
+
+input: ./docs
+
+branding:
+  title: The Lore
+
+edit:
+  repo: "https://github.com/snackbox-moe/thelore/edit/"
+  base: /docs/
+  branch: "master"
+  label: "Edit this page"
