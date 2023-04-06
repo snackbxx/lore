@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://snackbox-moe.github.io/thelore/sitemap.xml.gz
+Sitemap: https://thelore.moe/sitemap.xml.gz
