@@ -27,5 +27,4 @@ The 'cabal' is an unofficial private tracker term and should not be used in conv
 
 ## References
 
-[Private trackers - InstallGentoo wiki](https://wiki.installgentoo.com/index.php/Private_trackers#What_are_the_best_private_trackers.3F)
-Powered by Wiki.js
+[Private trackers - InstallGentoo wiki](https://wiki.installgentoo.com/index.php/Private_trackers)

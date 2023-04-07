@@ -5,7 +5,7 @@ description: The Sheet that lists the Best Releases for Anime
 
 # SeaDex
 
-The [Seadex](https://releases.moe/) is a Google Sheets document that lists the best releases (audio, video and subtitles) for certain anime.
+The [SeaDex](https://releases.moe/) is a Google Sheets document that lists the best releases (audio, video and subtitles) for certain anime.
 
 ## Notable events
 

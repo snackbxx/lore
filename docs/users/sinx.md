@@ -14,12 +14,12 @@ While it isn't known excatly what the message was that caused the ban, from what
 
 ## Afterwards
 
-After this happened, Sinx would stay in Seadex for about a week, eventually leaving, this would appear to be the end for him. However, on November 18th, 2022, SXX would unban every banned person, including Sinx, Sinx would then rejoin the server and engage in conversation. Soon after though, SInx and most other banned users were re-banned, presumably by another staff member.
+After this happened, Sinx would stay in SeaDex for about a week, eventually leaving, this would appear to be the end for him. However, on November 18th, 2022, SXX would unban every banned person, including Sinx, Sinx would then rejoin the server and engage in conversation. Soon after though, SInx and most other banned users were re-banned, presumably by another staff member.
 
 ## The End
 
 After this, Sinx was really only active in people's direct messages, so we don't know exactly what happened, but on March 12, 2023, the user Bob the Builder got a dm from Sinx, since dm leaking is big scary and evil, the full dm can't be shown, but in the messsage, Sinx basically said that he was done with private trackers and that he was planning for his own death, presumably through suicide.
 
-After that dm, he didn't reply to any direct messages nor spoke on any servers. As Sinx's location and real name weren't known, we couldn't check to see if he really had died, and thus, most people on Snackbox, Seadex, and other assorted servers were convinced that he had actually died, even making several jokes about it.
+After that dm, he didn't reply to any direct messages nor spoke on any servers. As Sinx's location and real name weren't known, we couldn't check to see if he really had died, and thus, most people on Snackbox, SeaDex, and other assorted servers were convinced that he had actually died, even making several jokes about it.
 
 However, soon enough, Bob the Builder got a new dm, (finishing this later.,.,,.)

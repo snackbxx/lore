@@ -10,7 +10,7 @@ PD, short for Perfect Dark, is a Japanese semi-private site, it's notable for co
 
 ## The Cause of the Incident
 
-As a sort of joke (and for advertising purposes), Bob, and later ankh, would post some Seadex releases to PD, including the Snackbox discord link aswell, no one really expected someone from PD to join, since it's not like they'd know what would be on there considering the usual PD content. Considering the largely Japanese userbase of PD, even if someone did join, they probably wouldn't understand the server and would leave, there seemed to be no chance that someone from PD would click Bob or ankh's link to the server.
+As a sort of joke (and for advertising purposes), Bob, and later ankh, would post some SeaDex releases to PD, including the Snackbox discord link aswell, no one really expected someone from PD to join, since it's not like they'd know what would be on there considering the usual PD content. Considering the largely Japanese userbase of PD, even if someone did join, they probably wouldn't understand the server and would leave, there seemed to be no chance that someone from PD would click Bob or ankh's link to the server.
 
 ## The Incident
 

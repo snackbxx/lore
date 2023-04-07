@@ -1,8 +1,8 @@
 ---
-label: Seadex Official Terminology
+label: SeaDex Official Terminology
 ---
 
-# Seadex Official Terminology
+# SeaDex Official Terminology
 
 - **Nigged**: a derogative way to refer to encodes/releases of low quality. Famously used by members of the server to call out a bad Reza encode.
 - **Thanosed**: similar to nigged, although this is a safer and more family friendly alternative.
@@ -18,7 +18,7 @@ label: Seadex Official Terminology
 - **Streetshit**: typically an action seen throughout India, the streets here refers to the Nyaa upload grounds and the shits are the stinky ass, worthless releases uploaded.
 - **Flacebro**: invented by the Opus faction in the lossy vs lossless audio war, it is a portmanteau of "flac", "placebo", and "bro." Refers to people who advocate for FLAC despite the transparency of high bitrate lossy audio.
 - **Opussy**: yet another portmanteau, this one is formed from the roots of "Opus" and "Pussy." Born from the Flacebro view of how the Opus codec is for beta males and people who with no free space.
-- **Joyboard**: a channel in Seadex where messages with over 10 laugh reacts are reposted and where this message will end up.
+- **Joyboard**: a channel in SeaDex where messages with over 10 laugh reacts are reposted and where this message will end up.
 
 [^1]: https://slow.pics/c/loHWZWlY
 

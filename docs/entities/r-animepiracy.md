@@ -1,11 +1,11 @@
 ---
-label: r/AnimePiracy
+label: r/animepiracy
 description: A community dedicated to the discussion of piracy surrounding anime, manga, manhwa, light novels, visual novels, and hentai.
 ---
 
-# r/AnimePiracy
+# r/animepiracy
 
-[r/AnimePiracy](https://www.reddit.com/r/animepiracy) is a reddit community dedicated to the discussion of piracy surrounding anime, manga, manhwa, light novels, visual novels, and hentai. It also had a corresponding Discord Community, which no longer exists.
+[r/animepiracy](https://www.reddit.com/r/animepiracy) is a reddit community dedicated to the discussion of piracy surrounding anime, manga, manhwa, light novels, visual novels, and hentai. It also had a corresponding Discord Community, which no longer exists.
 
 ## Info
 
