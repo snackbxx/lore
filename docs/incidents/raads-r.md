@@ -35,6 +35,7 @@ https://embrace-autism.com/raads-r/#test
 | intuol#6293                          | [134](https://i.imgur.com/FojvOIV.png)  |
 | BabyMikuChan#0101                    | [131](https://i.imgur.com/UHSI5Gy.png)  |
 | John Titor#4788                      | [120](https://i.imgur.com/ycsk36v.png)  |
+| DarkSwordsman#0001                   | [109](https://i.imgur.com/AKPqZwO.png)  |
 | SeaSmoke#0002                        | [108](https://i.imgur.com/m8FoA2x.jpg)  |
 | Pulkit200#2009                       | [092](https://i.imgur.com/PcOzNMr.png)  |
 | aro#1727                             | [090](https://i.imgur.com/RFM0ZiF.png)  |
