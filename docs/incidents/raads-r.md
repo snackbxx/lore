@@ -36,6 +36,7 @@ https://embrace-autism.com/raads-r/#test
 | BabyMikuChan#0101                    | [131](https://i.imgur.com/UHSI5Gy.png)  |
 | John Titor#4788                      | [120](https://i.imgur.com/ycsk36v.png)  |
 | SeaSmoke#0002                        | [108](https://i.imgur.com/m8FoA2x.jpg)  |
+| DarkSwordsman#0001                   | [103](https://i.imgur.com/AKPqZwO.png)  |
 | Pulkit200#2009                       | [092](https://i.imgur.com/PcOzNMr.png)  |
 | aro#1727                             | [090](https://i.imgur.com/RFM0ZiF.png)  |
 | ShoeChicken#6786                     | [090](https://i.imgur.com/7viWzzx.png)  |
