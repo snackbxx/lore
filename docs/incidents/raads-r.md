@@ -9,7 +9,7 @@ label: RAADS-R Autism Test
 The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS–R) is a self-report questionnaire designed to identify adult autistics who “escape diagnosis” due to a subclinical level presentation.
 https://embrace-autism.com/raads-r/#test
 
-![autism table](https://i.imgur.com/YWR8JrI.png)
+![autism table](https://user-images.githubusercontent.com/130555117/235987462-58e86a36-befb-49eb-a16d-25f65c546de8.png)
 
 **TLDR: You are autistic if you score >=65**
 
@@ -70,17 +70,17 @@ https://embrace-autism.com/raads-r/#test
 
 **Current Lowest: Genesiss#0125**  
 **Current Highest: ankh#8694**  
-**Average Score: 98.878**  
+**Average Score: 93.5**  
 **Known Autistic Staff: Jimbo, Munch**
 
 ## Super Autists
 
-[![Ankh](https://i.imgur.com/3UvR5lT.png "Ankh")](https://i.imgur.com/3UvR5lT.png "Ankh")
-[![aro2](https://i.imgur.com/yzeui6m.png "aro2")](https://i.imgur.com/yzeui6m.png "aro2")
-[![aro](https://i.imgur.com/yMLL4M8.png "aro")](https://i.imgur.com/yMLL4M8.png "aro")
-[![regicidio](https://i.imgur.com/OSJFiPx.png "regicidio")](https://i.imgur.com/OSJFiPx.png "regicidio")
-[![Ril](https://i.imgur.com/bfI5UFY.png "Ril")](https://i.imgur.com/bfI5UFY.png "Ril")
-[![Scrad](https://i.imgur.com/Xo5trvI.png "Scrad")](https://i.imgur.com/Xo5trvI.png "Scrad")
-[![SeaSmoke](https://i.imgur.com/mwinwnw.png "SeaSmoke")](https://i.imgur.com/mwinwnw.png "SeaSmoke")
-[![shisueza](https://i.imgur.com/5YoyRTJ.png "shisueza")](https://i.imgur.com/5YoyRTJ.png "shisueza")
-[![TheAnimeCompletionist](https://i.imgur.com/ArOcHp5.png "TheAnimeCompletionist")](https://i.imgur.com/ArOcHp5.png "TheAnimeCompletionist")
+[![Ankh](https://user-images.githubusercontent.com/130555117/235988086-a567b8d8-5ed1-4371-887b-556f8740194b.png "Ankh")](https://user-images.githubusercontent.com/130555117/235988086-a567b8d8-5ed1-4371-887b-556f8740194b.png"Ankh")
+[![aro2](https://user-images.githubusercontent.com/130555117/235988294-9a698765-f3b0-403e-95d8-66c4b6509056.png "aro2")](https://user-images.githubusercontent.com/130555117/235988294-9a698765-f3b0-403e-95d8-66c4b6509056.png "aro2")
+[![aro](https://user-images.githubusercontent.com/130555117/235988903-914d3057-c0c3-4f6f-bd95-9a2a1b6f2346.png "aro")](https://user-images.githubusercontent.com/130555117/235988903-914d3057-c0c3-4f6f-bd95-9a2a1b6f2346.png "aro")
+[![regicidio](https://user-images.githubusercontent.com/130555117/235990020-63350a4b-73bb-4a70-a486-f712cc56e0b5.png "regicidio")](https://user-images.githubusercontent.com/130555117/235990020-63350a4b-73bb-4a70-a486-f712cc56e0b5.png "regicidio")
+[![Ril](https://user-images.githubusercontent.com/130555117/235990212-91796768-333b-401e-bb88-051f3553f1dc.png "Ril")](https://user-images.githubusercontent.com/130555117/235990212-91796768-333b-401e-bb88-051f3553f1dc.png "Ril")
+[![Scrad](https://user-images.githubusercontent.com/130555117/235990492-cc8cc0d4-7875-4534-b254-c3dbbc7c717d.png "Scrad")](https://user-images.githubusercontent.com/130555117/235990492-cc8cc0d4-7875-4534-b254-c3dbbc7c717d.png "Scrad")
+[![SeaSmoke](https://user-images.githubusercontent.com/130555117/235990926-cbf0b766-6710-432b-ab70-bbbc7d946911.png "SeaSmoke")](https://user-images.githubusercontent.com/130555117/235990926-cbf0b766-6710-432b-ab70-bbbc7d946911.png "SeaSmoke")
+[![shisueza](https://user-images.githubusercontent.com/130555117/235991100-4499cf6d-cbb8-46cc-a6a2-19eb21255fc0.png "shisueza")](https://user-images.githubusercontent.com/130555117/235991100-4499cf6d-cbb8-46cc-a6a2-19eb21255fc0.png "shisueza")
+[![TheAnimeCompletionist](https://user-images.githubusercontent.com/130555117/235991361-3d194122-7c9e-4e5e-a010-a15a5497659c.png "TheAnimeCompletionist")](https://user-images.githubusercontent.com/130555117/235991361-3d194122-7c9e-4e5e-a010-a15a5497659c.png "TheAnimeCompletionist")
