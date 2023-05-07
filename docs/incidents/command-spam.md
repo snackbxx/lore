@@ -15,6 +15,6 @@ legionaire cleared out 280 messages
 
 someone go write this out.  I took the notes.  no screenshot since im too slow for legionaires purges
 
-[![](https://i.imgur.com/VDLp6fs.png)](https://i.imgur.com/VDLp6fs.png)
+[![](https://files.catbox.moe/7du38g.png)](https://files.catbox.moe/7du38g.png)
 
-[![](https://i.imgur.com/Fa8o6ne.png)](https://i.imgur.com/Fa8o6ne.png)
+[![](https://files.catbox.moe/wz8vn8.png)](https://files.catbox.moe/wz8vn8.png)
