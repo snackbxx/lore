@@ -6,19 +6,19 @@ label: Omuricee
 
 For some context, Omuricee was muted when this happened. He had 1 day left on his mute but instead of waiting he decided to hop one one (of his many) alts.
 
-[![1](https://i.imgur.com/FHXamub.png "1")](https://i.imgur.com/FHXamub.png "1")
-[![3](https://i.imgur.com/LT6WmKd.png "2")](https://i.imgur.com/LT6WmKd.png "2")
-[![3](https://i.imgur.com/m2vc5Ug.png "3")](https://i.imgur.com/m2vc5Ug.png "3")
-[![4](https://i.imgur.com/aby94Fv.png "4")](https://i.imgur.com/aby94Fv.png "4")
-[![5](https://i.imgur.com/aKcFVZm.png "5")](https://i.imgur.com/aKcFVZm.png "5")
-[![6](https://i.imgur.com/kWBxu5v.png "6")](https://i.imgur.com/kWBxu5v.png "6")
-[![7](https://i.imgur.com/8y12kfP.png "7")](https://i.imgur.com/8y12kfP.png "7")
-[![8](https://i.imgur.com/cUX25RE.png "8")](https://i.imgur.com/cUX25RE.png "8")
+[![1](https://files.catbox.moe/fwlpf3.png "1")](https://files.catbox.moe/fwlpf3.png "1")
+[![3](https://files.catbox.moe/fwlpf3.png "2")](https://files.catbox.moe/fwlpf3.png "2")
+[![3](https://files.catbox.moe/4fae8g.png "3")](https://files.catbox.moe/4fae8g.png "3")
+[![4](https://files.catbox.moe/54q97a.png "4")](https://files.catbox.moe/54q97a.png "4")
+[![5](https://files.catbox.moe/qglnt9.png "5")](https://files.catbox.moe/qglnt9.png "5")
+[![6](https://files.catbox.moe/ry98fv.png "6")](https://files.catbox.moe/ry98fv.png "6")
+[![7](https://files.catbox.moe/c38uzj.png "7")](https://files.catbox.moe/c38uzj.png "7")
+[![8](https://files.catbox.moe/qc1ryh.png "8")](https://files.catbox.moe/qc1ryh.png "8")
 
 > Context for the link (https://canary.discord.com/channels/974468300304171038/974483607211089930/1008434210782068918)
- [![9](https://i.imgur.com/hwjXzlS.png "9")](https://i.imgur.com/hwjXzlS.png "9")
+ [![9](https://files.catbox.moe/frofiv.png "9")](https://files.catbox.moe/frofiv.png "9")
 
-[![10](https://i.imgur.com/xKJ2ZMb.png "10")](https://i.imgur.com/xKJ2ZMb.png "10")
+[![10](https://files.catbox.moe/fcdv8d.png "10")](https://files.catbox.moe/fcdv8d.png "10")
 [![11](https://i.imgur.com/coDnz1j.png "11")](https://i.imgur.com/coDnz1j.png "11")
 [![12](https://i.imgur.com/8GdQhHs.png "12")](https://i.imgur.com/8GdQhHs.png "12")
 [![13](https://i.imgur.com/GeBiRit.png "13")](https://i.imgur.com/GeBiRit.png "13")
