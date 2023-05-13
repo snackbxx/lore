@@ -113,8 +113,8 @@ Velo's letter to his dad asking for money.
 >Kind regards and sincere shame + helplessness,
 >[my irl name]
 
-[![](https://files.catbox.moe/wfu9dd.png)
-[![](https://files.catbox.moe/btjw8c.png)
-[![](https://files.catbox.moe/14s3kp.png)
-[![](https://files.catbox.moe/bukjuf.png)
-[![](https://files.catbox.moe/ioslrf.png)
+![](https://files.catbox.moe/wfu9dd.png)
+![](https://files.catbox.moe/btjw8c.png)
+![](https://files.catbox.moe/14s3kp.png)
+![](https://files.catbox.moe/bukjuf.png)
+![](https://files.catbox.moe/ioslrf.png)
