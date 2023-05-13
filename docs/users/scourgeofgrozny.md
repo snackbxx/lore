@@ -10,3 +10,4 @@ Also known as:
 - regicidio
 - scourageofgrozny
 - цареубийца#6150
+- ctyd
