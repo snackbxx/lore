@@ -6,42 +6,42 @@ label: Andym8's Bathroom
 
 ## 07.09.2022, Original images
 
-![Bathroom](https://i.imgur.com/9E2LLS3.jpg)
+![Bathroom](https://files.catbox.moe/xbwnw3.jpg)
 
-![Bathroom](https://i.imgur.com/IjGqfuR.jpg)
+![Bathroom](https://files.catbox.moe/cd273r.jpg)
 
-![Bathroom](https://i.imgur.com/3LdmDfq.jpg)
+![Bathroom](https://files.catbox.moe/ab2dmz.jpg)
 
-![Bathroom](https://i.imgur.com/gzFEtpK.jpg)
+![Bathroom](https://files.catbox.moe/wgl6sw.jpg)
 
-![Bathroom](https://i.imgur.com/u7RucBd.jpg)
+![Bathroom](https://files.catbox.moe/7qegfn.jpg)
 
-![Bathroom](https://i.imgur.com/HH6sLtb.jpg)
+![Bathroom](https://files.catbox.moe/itv6ax.jpg)
 
-![Bathroom](https://i.imgur.com/t7Xi2by.jpg)
+![Bathroom](https://files.catbox.moe/lxfpo4.jpg)
 
-![Bathroom](https://i.imgur.com/35Wwkmr.jpg)
+![Bathroom](https://files.catbox.moe/s2dyw7.jpg)
 
-![Bathroom](https://i.imgur.com/3qpnhKl.jpg)
+![Bathroom](https://files.catbox.moe/abfnk1.jpg)
 
-![Bathroom](https://i.imgur.com/7NXSwiK.jpg)
+![Bathroom](https://files.catbox.moe/n9c249.jpg)
 
-![Bathroom](https://i.imgur.com/dpemKRD.jpg)
+![Bathroom](https://files.catbox.moe/9gxjis.jpg)
 
-![Bathroom](https://i.imgur.com/xxd070p.jpg)
+![Bathroom](https://files.catbox.moe/djyr2a.jpg)
 
-![Bathroom](https://i.imgur.com/7TSFeoB.jpg)
+![Bathroom](https://files.catbox.moe/znfq85.jpg)
 
-![Bathroom](https://i.imgur.com/h83HRzw.jpg)
+![Bathroom](https://files.catbox.moe/m8iow1.jpg)
 
-![Bathroom](https://i.imgur.com/u5UYeuJ.jpg)
+![Bathroom](https://files.catbox.moe/mfep92.jpg)
 
-![Bathroom](https://i.imgur.com/hD7UIUU.jpg)
+![Bathroom](https://files.catbox.moe/o3r7w1.jpg)
 
 ## Update 10/14/2022: the bathroom was cleaned
 
-![Clean Bathroom](https://i.imgur.com/AfNfDCQ.jpg)
+![Clean Bathroom](https://files.catbox.moe/o9gywk.jpg)
 
 ## Update 04/12/2022: Andy "cleaned" it himself (looks like shit again)
 
-![Shit Bathroom](https://i.imgur.com/XUIvbOL.jpg)
+![Shit Bathroom]https://files.catbox.moe/f30zai.jpg)
