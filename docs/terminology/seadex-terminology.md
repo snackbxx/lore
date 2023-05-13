@@ -28,4 +28,4 @@ label: SeaDex Official Terminology
 Made By Zander#5142
 !!!
 
-[![Original](https://i.imgur.com/mD1X484.png "Original")](https://i.imgur.com/mD1X484.png "Original")
+[![Original](https://files.catbox.moe/92a9tq.png "Original")](https://files.catbox.moe/92a9tq.png "Original")

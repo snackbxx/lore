@@ -10,9 +10,9 @@ https://www.newsweek.com/ex-county-worker-collin-michael-williams-guilty-defacin
 
 On one faitful day a person called "Director Geff" joined.  He joined asking if using a streaming site would break his probation.  After some probing snackbox members managed to extract some information about him.
 
-![pic](https://i.imgur.com/KvXDww3.png)
-![pic2](https://i.imgur.com/E2ARKfr.png)
+![pic](https://files.catbox.moe/qrop5g.png)
+![pic2](https://files.catbox.moe/t04849.png)
 
 After some searcing snackbox members managed to find him
 
-![pic3](https://i.imgur.com/LnZPsb6.png)
+![pic3](https://files.catbox.moe/wes5oi.png)
