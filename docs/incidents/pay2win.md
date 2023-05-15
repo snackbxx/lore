@@ -1,5 +1,5 @@
 ---
-labael: Pay2Win
+label: Pay2Win
 ---
 
 # Pay2Win
@@ -25,4 +25,7 @@ THE LIST OF PEOPLE WHO HAVE PAID SXX IN ORDER TO GAIN SOMETHING
 - Mizz141#1337 (DiscordID: 96651207463964672)
   - Amount Paid: 30$
   - Privilege gained: Increased the requirements for #trackers from level 3 to level 4.
+  -
+  - Amount Paid: 50$ 
+  - Privilege gained: Increased the requirements for #trackers from level 4 to level 5.
   [![mizz](https://files.catbox.moe/lrto3k.png)](https://files.catbox.moe/lrto3k.png)
