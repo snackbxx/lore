@@ -24,6 +24,8 @@ He first gained popularity as a manga ripper and a mediocre muxer.  He frequente
 12. Claims to have IQ higher than BMI.
 13. Claims to not have been banned from the nep_blanc server for sexual harassment, despite the ban message stating the ban was due to sexual harassment.
 14. Claims to not be attracted to children. While clearly being attracted to them.
+15. Claims MTV and BHD are top trackers, on the same level as PTP
+16. Claims to have been born in 2003.
 
 ## AnimeIsMyWaifu FACT LIST AS OF 2022
 
@@ -36,3 +38,4 @@ He first gained popularity as a manga ripper and a mediocre muxer.  He frequente
 7. Took the short bus during school.
 8. Would like to get creampied by a trans woman.
 9. Watches Andrew Tate religiously
+10. Was born in 1984
