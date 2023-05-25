@@ -28,11 +28,11 @@ Other (possible) members who've only started to be indoctrinated include:
 
 ![It gets even worse when quotes comes into play](https://files.catbox.moe/yuzjum.png)
 
-### Enough for it to steal be the 1st of priority while having a mental breakdown
+### Enough for it to still be the no. 1 priority while having a mental breakdown
 
 ![](https://files.catbox.moe/5kpe64.png)
 
-### Enough to come up with alternate persona on Nyaa
+### Enough to come up with an alternate persona on Nyaa
 
 ![We still don't know who this is, if you do then please report it to any of the core members above](https://files.catbox.moe/l2rkd9.png)
 
