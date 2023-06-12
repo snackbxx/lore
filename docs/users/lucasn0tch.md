@@ -1,5 +1,8 @@
 ---
 label: Lucasn0tch
+description:
+image: https://github.com/snackbxx/thelore/assets/78981416/1bfe09b3-87ef-4871-af1a-de1a02a96cdc
+
 ---
 
 # Lucasn0tch
