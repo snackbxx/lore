@@ -44,4 +44,4 @@ label: Andym8's Bathroom
 
 ## Update 04/12/2022: Andy "cleaned" it himself (looks like shit again)
 
-![Shit Bathroom]https://files.catbox.moe/f30zai.jpg)
+![Shit Bathroom](https://files.catbox.moe/f30zai.jpg)
