@@ -22,4 +22,4 @@ After this, Sinx was really only active in people's direct messages, so we don't
 
 After that dm, he didn't reply to any direct messages nor spoke on any servers. As Sinx's location and real name weren't known, we couldn't check to see if he really had died, and thus, most people on Snackbox, SeaDex, and other assorted servers were convinced that he had actually died, even making several jokes about it.
 
-However, soon enough, Bob the Builder got a new dm, (finishing this later.,.,,.)
+However, soon enough, Bob the Builder got a new dm from a random alt, in it, Sinx admitted that he had lied about killing himself for some reason. Since then, Sinx hasn't joined back to Seadex or Snackbox, but has been spotted on other servers unrelated to either.
