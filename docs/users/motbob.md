@@ -27,3 +27,7 @@ Motbob has been called out time and again for allegedly choosing to encode pedo 
 # Motbob is a glowie?
 
 Some theorists believe that motbob is a lawyer working for the fbi, his mission is to infiltrate all encoding circles, become a nyaa mod in due time and take down entirety of anime piracy community.
+
+# Motbob use mpc
+
+Unlike the average anime encoder or enjoyer motbob like to take it rough and not use mpv. He uses mpc-hc instead
