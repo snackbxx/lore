@@ -4,7 +4,7 @@ Anyway, that's the kind of backstory I think motbob had, some of it may be ficti
 
 # The post reza nyaa account purgings
 
-After reza got snowynix'd, nyaa mods grew absurdly tired of all the shitposting and trolling. Seizing the oppurtunity amidst chaos motbob reported nyaa mods that his was the most shitposted comment section, and at his behest, the mods banned several accounts. Motbob once again showed his intellectual superiority, some theorists even believe that the whole snowynix thing was a ploy by motbob to achieve his ends, whether that is true or not I'll let the reader decide.
+After reza got snowynix'd, nyaa mods grew absurdly tired of all the shitposting and trolling. Seizing the opportunity amidst chaos motbob reported nyaa mods that his was the most shitposted comment section, and at his behest, the mods banned several accounts. Motbob once again showed his intellectual superiority, some theorists even believe that the whole snowynix thing was a ploy by motbob to achieve his ends, whether that is true or not I'll let the reader decide.
 
 # Banning his mates for framing him as a racist
 
