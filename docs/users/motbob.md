@@ -1,8 +1,6 @@
 ---
 label: motbob
 description: A brave man and a good friend 
-
-
 ---
 
 # motbob
