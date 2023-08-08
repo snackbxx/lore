@@ -4,7 +4,7 @@ That must be the kind of backstory motbob must have had. Motbob has always been 
 
 # The post reza nyaa account purgings
 
-After reza got snowynix'd, nyaa mods grew absurdly tired of all the shitposting and trolling. Seizing the opportunity amidst chaos motbob reported nyaa mods that his was the most shitposted comment section, and at his behest, mods banned several nyaa accounts. By doing this motbob once again showed his intellectual superiority, some theorists even believe that the whole snowynix thing was a ploy by motbob to achieve his ends, whether that is true or not I'll let the reader decide.
+After reza got snowynix'd, nyaa mods grew absurdly tired of all the shitposting and trolling. It is often speculated that seizing the opportunity amidst chaos motbob reported nyaa mods that his was the most shitposted comment section, and at his behest, mods banned several nyaa accounts. By doing this motbob once again showed his intellectual superiority, some theorists even believe that the whole snowynix thing was a ploy by motbob to achieve his ends, whether that is true or not I'll let the reader decide. [Motbob himself has denied these claims](https://github.com/snackbxx/thelore/pull/27#issuecomment-1666966783)
 
 # Banning his mates for framing him as a racist
 
@@ -27,3 +27,4 @@ Some theorists believe that motbob is a lawyer working for the fbi, his mission 
 # Motbob use mpc
 
 Unlike the average anime encoder or enjoyer motbob likes to take it rough and not use mpv. He uses mpc-hc instead
+
