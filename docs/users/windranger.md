@@ -13,3 +13,5 @@ She currently runs the subreddit r/animepussy, which more or less gives you an i
 As a well-known member of Snackbox, Windranger has made it clear that she is utterly obsessed with Elfen Lied.
 
 She is known to watch Dubbed anime, watching both dub and sub of the same anime. Rewatches the same anime over and over again, constantly bitches about "Modern anime" and is stuck in the past.
+
+![windrangersex](https://files.catbox.moe/8l9y9n.jpg)
