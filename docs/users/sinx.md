@@ -26,4 +26,4 @@ However, soon enough, Bob the Builder got a new dm from a random alt, in it, Sin
 
 ## The Restart
 
-On August 04, 2023, SXX, the head moderator of Snackbox, did something he called an "Annual Amnesty", as can be implied from the name, this was a mass unban of every banned server member, which, of course, included Sinx. About an hour after the Annual Amnesty, Sinx rejoined and sent his first message in over half a year, and he has since remained on the server, whch he presumably still will unless he gets banned again or leaves, but that definitely won't happen again haha.
+On August 04, 2023, SXX, the head moderator of Snackbox, did something he called an "Annual Amnesty", as can be implied from the name, this was a mass unban of every banned server member, which, of course, included Sinx. About an hour after the Annual Amnesty, Sinx rejoined and sent his first message in over half a year, and he has since remained on the server, which he presumably still will unless he gets banned again or leaves, but that definitely won't happen again haha.
