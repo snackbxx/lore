@@ -4,7 +4,7 @@ label: AnimeIsMyWaifu
 
 # AnimeIsMyWaifu (AIMW)
 
-AnimeIsMyWaifu, more commonly referred to as AIMW, is a Nyaa (now banned), private tracker, anime DDL, user, and releaser/ripper. Also one of the most joked about users on SnackBox. AIMW has a long history and is generally hated by everyone he comes into contact with.
+AnimeIsMyWaifu, more commonly referred to as AIMW, is a Nyaa (now banned), private tracker, anime DDL, user, and releaser/ripper. Also one of the most joked about users on Snackbox. AIMW has a long history and is generally hated by everyone he comes into contact with.
 
 He first gained popularity as a manga ripper and a mediocre muxer.  He frequented several anime discord hubs and was not only obnoxious but also incredibly honest about his complete degeneracy.  This is what led him to becoming hated.  From posting pictures of his anime "monster girl" collection to always finding ways to bring something horny into the conversation, AIMW was through and through a true degen in every sense of the word.
 

@@ -4,7 +4,7 @@ label: Legionaire
 
 # Legionaire
 
-Legionaire AKA Legion AKA Brick Dawg is a moderator of SnackBox and is known for mercilessly hunting down every Ranjeet, Dakshina and Kumar with zero hesitation before mercilessly banishing them to the shadow realm with the funniest ban reasons. He is most notable for killing every single Dakshina.
+Legionaire AKA Legion AKA Brick Dawg is a moderator of Snackbox and is known for mercilessly hunting down every Ranjeet, Dakshina and Kumar with zero hesitation before mercilessly banishing them to the shadow realm with the funniest ban reasons. He is most notable for killing every single Dakshina.
 
 ## Banning Citations
 
@@ -84,7 +84,7 @@ This is a collection of banning citations by Legionarie.
 ><br>
 ><div style="text-align: right; margin-right: 3em;"><i>&mdash; Legionaire on banning Velo (@PrincessCassiopeia)</i></div>
 
-> Previously banned on main account “scourgeofgrozny” for breaking rules in a spree as if he was a proud participant in an absolutely unhinged competition to see who could put the most poop on the streets. Ending with him finally doxxing a member of this server. In his quest to return to his favorite place to shit, he writes a seemingly heartfelt wall of text detailing how he was so grateful he was banned from snackbox so he could “self reflect” then not even 3 days later he brings a headmate alt account to this server to ban evade. He writes a second heartfelt wall of text and then proceeds to ban evade again with yet ANOTHER headmate alt account. Scourge, you are a stone cold Nepali who thinks copying the deranged behaviors of their best friend: Dakshina Guhpash is a good idea. You really had the gall to think you could outsmart the same people who hunted down your best friend. This is the fate you chose. If you want live by Dakshina, you shall die by Dakshina. Your time is short.
+> Previously banned on main account “scourgeofgrozny” for breaking rules in a spree as if he was a proud participant in an absolutely unhinged competition to see who could put the most poop on the streets. Ending with him finally doxxing a member of this server. In his quest to return to his favorite place to shit, he writes a seemingly heartfelt wall of text detailing how he was so grateful he was banned from Snackbox so he could “self reflect” then not even 3 days later he brings a headmate alt account to this server to ban evade. He writes a second heartfelt wall of text and then proceeds to ban evade again with yet ANOTHER headmate alt account. Scourge, you are a stone cold Nepali who thinks copying the deranged behaviors of their best friend: Dakshina Guhpash is a good idea. You really had the gall to think you could outsmart the same people who hunted down your best friend. This is the fate you chose. If you want live by Dakshina, you shall die by Dakshina. Your time is short.
 ><br>
 ><div style="text-align: right; margin-right: 3em;"><i>&mdash; Legionaire on banning @DeathBySnuSnu</i></div>
 
