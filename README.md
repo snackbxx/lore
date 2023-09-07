@@ -1,6 +1,6 @@
 # thelore
 
-Retype docs for thelore.moe
+Retype docs for lore.snackbox.moe
 
 ## How to edit
 
