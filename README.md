@@ -1,4 +1,4 @@
-# thelore
+# lore
 
 Retype docs for lore.snackbox.moe
 
