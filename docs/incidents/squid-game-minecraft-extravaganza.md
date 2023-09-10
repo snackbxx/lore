@@ -6,7 +6,7 @@ label: Squid Game Minecraft Extravaganza
 
 ## Introduction
 
-There are few events as hilariously disastrous as the ill-fated "Squid Game Minecraft Extravaganza" hosted by none other than Parhelilon on the AnimePiracy Discord server. This epic tale of chaos, drama, and a sprinkle of racial slurs is one that will be whispered in digital campfires for generations to come.
+There are few events as hilariously disastrous as the ill-fated Squid Game Minecraft Extravaganza hosted by none other than Parhelilon on the AnimePiracy Discord server. This epic tale of chaos, drama, and a sprinkle of racial slurs is one that will be whispered in digital campfires for generations to come.
 
 ## The Incident
 
