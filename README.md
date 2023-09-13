@@ -17,13 +17,6 @@
 
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/snackbxx/lore/retype-action.yml?style=flat&logo=github)](https://github.com/snackbxx/lore/actions) [![GitHub issues](https://img.shields.io/github/issues/snackbxx/lore?style=flat&logo=github)](https://github.com/snackbxx/lore/issues) [![License](https://img.shields.io/github/license/snackbxx/lore?style=flat&logo=unlicense)](https://github.com/snackbxx/lore/blob/master/LICENSE) [![Discord](https://img.shields.io/discord/974468300304171038?style=flat&logo=discord)](https://discord.gg/snackbox)
 
-<h3>Built with
-  <br>
-  <a href="https://retype.com">
-    <img src="https://retype.com/static/retype-logo-dark.svg" alt="Retype Logo" height="32">
-  </a>
-</h3>
-
 </div>
 
 ## Table Of Contents
@@ -37,7 +30,7 @@
 
 ## Getting Started
 
-Learn how to get a local copy up and running:
+lore is built using [Retype](https://retype.com). See how you can host a local copy on your machine:
 
 ### Prerequisites
 
