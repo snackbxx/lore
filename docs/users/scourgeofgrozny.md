@@ -6,8 +6,24 @@ label: Scourgeofgrozny
 
 Also known as:
 
-- kyorantodo
-- regicidio
-- scourageofgrozny
-- цареубийца#6150
+- цареубийца
+- michelainman
+- reigicde
+- regicidios
+- recigides
+- hitogami
+- deathbysnusnu
+- 0_+
 - ctyd
+- 0_00
+- --
+- []
+- nulled
+- nulledone
+- karagaga
+- cgpeers
+- rrostov
+- m.1.c.h.
+- Mich
+- jgrosz
+- Zeraf1m 
