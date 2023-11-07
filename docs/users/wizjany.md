@@ -1,9 +1,9 @@
 ---
-label: Wizjany
+label: wizjany
 description: Potential kinoworm suspect
 ---
 
-# Wizjany
+# wizjany
 
 ![image](https://github.com/snackbxx/lore/assets/78981416/7f4d7320-1224-4207-9c78-9d427739a799)
 
