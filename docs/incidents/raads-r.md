@@ -18,8 +18,9 @@ https://embrace-autism.com/raads-r/#test
 | Name                                 | RAADS-R Autism Test Score               |
 |--------------------------------------|-----------------------------------------|
 | 🥇 ankh#8694                         | [234](https://user-images.githubusercontent.com/130555117/234929337-7f711be2-4fc8-4c03-99f3-afd4b3ee6ab2.png)  |
-| 🥈 shisueza#0232                     | [196](https://user-images.githubusercontent.com/130555117/234929502-068923d3-6591-47ec-8e53-9ba4fb7381af.png)  |
-| 🥉 Scrad#0685                        | [187](https://user-images.githubusercontent.com/130555117/234929674-a428a240-cb96-4953-ae81-d1a5ff6e2ed8.png)  |
+| 🥈 izumi06                           | [199](https://github.com/snackbxx/lore/assets/61562681/5d69da95-f94d-41ae-a5de-e3047829a9d0)                   |
+| 🥉 shisueza#0232                     | [196](https://user-images.githubusercontent.com/130555117/234929502-068923d3-6591-47ec-8e53-9ba4fb7381af.png)  |
+| Scrad#0685                           | [187](https://user-images.githubusercontent.com/130555117/234929674-a428a240-cb96-4953-ae81-d1a5ff6e2ed8.png)  |
 | Mawile#9390                          | [176](https://user-images.githubusercontent.com/130555117/234930310-5aa1811d-c701-4329-8a5d-f5ee4664d320.png)  |
 | Pika-Pika-Penis#6981 (Pukito)        | [176](https://user-images.githubusercontent.com/130555117/234930530-d83bb5b7-d2bc-48a6-9022-338a0c7fe422.png)  |
 | Jimbo#9153                           | [175](https://user-images.githubusercontent.com/130555117/234935906-2b0b4ebe-6864-467d-83d2-36c96c68daaf.png)  |
