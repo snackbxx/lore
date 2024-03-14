@@ -9,7 +9,7 @@ label: RAADS-R Autism Test
 The Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS–R) is a self-report questionnaire designed to identify adult autistics who “escape diagnosis” due to a subclinical level presentation.
 https://embrace-autism.com/raads-r/#test
 
-![autism table](https://user-images.githubusercontent.com/130555117/235987462-58e86a36-befb-49eb-a16d-25f65c546de8.png)
+![autism table](https://github.com/snackbxx/lore/assets/61562681/aa5c94f9-93e0-4301-9498-9d1af3f60cff)
 
 **TLDR: You are autistic if you score >=65**
 
@@ -17,56 +17,56 @@ https://embrace-autism.com/raads-r/#test
 
 | Name                                 | RAADS-R Autism Test Score               |
 |--------------------------------------|-----------------------------------------|
-| 🥇 ankh#8694                         | [234](https://user-images.githubusercontent.com/130555117/234929337-7f711be2-4fc8-4c03-99f3-afd4b3ee6ab2.png)  |
-| 🥈 izumi06                           | [199](https://github.com/snackbxx/lore/assets/61562681/5d69da95-f94d-41ae-a5de-e3047829a9d0)                   |
-| 🥉 shisueza#0232                     | [196](https://user-images.githubusercontent.com/130555117/234929502-068923d3-6591-47ec-8e53-9ba4fb7381af.png)  |
-| Scrad#0685                           | [187](https://user-images.githubusercontent.com/130555117/234929674-a428a240-cb96-4953-ae81-d1a5ff6e2ed8.png)  |
-| Mawile#9390                          | [176](https://user-images.githubusercontent.com/130555117/234930310-5aa1811d-c701-4329-8a5d-f5ee4664d320.png)  |
-| Pika-Pika-Penis#6981 (Pukito)        | [176](https://user-images.githubusercontent.com/130555117/234930530-d83bb5b7-d2bc-48a6-9022-338a0c7fe422.png)  |
-| Jimbo#9153                           | [175](https://user-images.githubusercontent.com/130555117/234935906-2b0b4ebe-6864-467d-83d2-36c96c68daaf.png)  |
-| pears#2760                           | [171](https://user-images.githubusercontent.com/130555117/234935344-9e612e5d-4e26-4703-80dc-943a386407a9.png)  |
-| Ril#4273                             | [171](https://user-images.githubusercontent.com/130555117/234935268-3c4e2c1a-e4f8-4da9-b1af-bae2daccb089.png)  |
-| smolkitten#6314                      | [167](https://user-images.githubusercontent.com/130555117/234935123-fcb2c94e-775a-4012-a206-2789d84d81ea.png)  |
-| цареубийца#6150 (regicidio/scourge)  | [159](https://user-images.githubusercontent.com/130555117/234934976-1a02f805-1254-43d9-8f11-a58d8d29c39b.png)  |
-| TechnoJo4#1337                       | [147](https://user-images.githubusercontent.com/130555117/234934904-df8a5b36-cf4b-4922-b218-55d99ac1557d.png)  |
-| Glitching Crow#7080                  | [147](https://user-images.githubusercontent.com/130555117/234934799-a148697e-1ebc-445c-9cf0-6b2d2ea8a8dc.png)  |
-| Rakkun#5951                          | [139](https://user-images.githubusercontent.com/130555117/234936557-d1b3ba08-8a27-43fb-aff9-8168aa050141.png)  |
-| KangChan56#4861                      | [135](https://user-images.githubusercontent.com/130555117/234936632-16e1aa50-9cb4-46bd-ae6c-a16e42aa6669.png)  |
-| intuol#6293                          | [134](https://user-images.githubusercontent.com/130555117/234936716-b4b49c6e-cc13-4a33-a4f2-d312e3ddd4eb.png)  |
-| BabyMikuChan#0101                    | [131](https://user-images.githubusercontent.com/130555117/234936819-f79275b3-fb49-43f5-9c3b-74e7c91dbbe0.png)  |
-| John Titor#4788                      | [120](https://user-images.githubusercontent.com/130555117/234937046-591ddefa-66d0-4278-bea6-2df06352ca67.png)  |
-| DarkSwordsman#0001                   | [109](https://user-images.githubusercontent.com/130555117/234928040-846a1e75-02a7-44bd-9547-537a0200e14d.png)  |
-| SeaSmoke#0002                        | [108](https://user-images.githubusercontent.com/130555117/234927726-7071a85e-9eb3-4e37-9677-588e78019cc3.png)  |
-| MXX#9683                             | [094](https://user-images.githubusercontent.com/130555117/234926558-9f6059d3-57fa-4332-b5f1-e3ab0c0fa867.png)  |
-| Pulkit200#2009                       | [092](https://user-images.githubusercontent.com/130555117/234937451-5936f99a-303d-4512-90e0-67f9f2baffdd.png)  |
-| aro#1727                             | [090](https://user-images.githubusercontent.com/130555117/234938198-157d8555-cc3f-421d-bb9c-82ed26e14a81.png)  |
-| ShoeChicken#6786                     | [090](https://user-images.githubusercontent.com/130555117/234938359-7adb7665-e42a-4a46-8020-67b61c197aa7.png)  |
-| cross#6727                           | [087](https://user-images.githubusercontent.com/130555117/234938721-dbe99bb9-4a5d-4270-bbd7-670efea58875.png)  |
-| BlazingTruth#4044                    | [087](https://user-images.githubusercontent.com/130555117/234938876-6492e516-3af3-48a9-91e8-0a819750972a.png)  |
-| Nish#6661                            | [085](https://user-images.githubusercontent.com/130555117/234939159-f5fa847e-b060-4281-b5ba-660fb978c7a4.png)  |
-| karma#7928                           | [083](https://user-images.githubusercontent.com/130555117/234939347-c3927cad-a3b3-4621-b8bf-1471e0b1ef52.png)  |
-| ThaUnknown_#3951                     | [080](https://user-images.githubusercontent.com/130555117/234939609-a6369263-fdb3-4a0d-9018-148833fafe1f.png)  |
-| guyman#4884                          | [078](https://user-images.githubusercontent.com/130555117/234945522-aef9224c-e2d7-4496-bd2c-f13f09deca74.png)  |
-| Problemsolver4ever#1559              | [071](https://user-images.githubusercontent.com/130555117/234945325-65a99cd2-3ae3-439c-947a-7daeb4ba0fd2.png)  |
-| [REDACTED]#2110                      | [063](https://user-images.githubusercontent.com/130555117/234945038-4ad12674-0156-46ca-b714-9f378cfc2359.png)  |
-| ashanti#8233                         | [063](https://user-images.githubusercontent.com/130555117/234944291-309e1061-e491-494f-b870-3f5a42d7481d.png)  |
-| homer#0845                           | [057](https://user-images.githubusercontent.com/130555117/234944061-c7e45a84-5d54-43f8-8d20-ef1ba4f67f30.png)  |
-| Vodes#6262                           | [057](https://user-images.githubusercontent.com/130555117/234943865-21ce97f6-7fec-45c9-96c1-ae4d6a41b5f2.png)  |
-| source#5843                          | [042](https://user-images.githubusercontent.com/130555117/234931110-a82ac30e-d5b5-42b1-bf2f-c45e1c3ca5bc.png)  |
-| Nokination#2225                      | [041](https://user-images.githubusercontent.com/130555117/234934099-0e7b6114-a7ec-45f1-b3b8-c44dafccacd3.png)  |
-| Legionaire#6645                      | [041](https://user-images.githubusercontent.com/130555117/234933982-e2e79c72-14e4-44b9-84d5-308846541453.png)  |
-| V01#8183                             | [030](https://user-images.githubusercontent.com/130555117/234933904-742dd30f-91c8-41ed-8c29-df7d5b00ec97.png)  |
-| SXX#0401                             | [028](https://user-images.githubusercontent.com/130555117/234933750-966022a5-8800-4c7d-8676-e35c20711dc5.png)  |
-| bankai_phonk#7658                    | [027](https://user-images.githubusercontent.com/130555117/234932757-3da10086-ef14-4a51-b69c-1dcd3a46c0b9.png)  |
-| DankMemz#7979                        | [022](https://user-images.githubusercontent.com/130555117/234932880-a7dceff5-05b9-458b-a6c4-b5f9ea6b6ad5.png)  |
-| RainingTerror#0365                   | [020](https://user-images.githubusercontent.com/130555117/234933039-edd6e0f2-88ed-4b97-8d56-bfc9868c9820.png)  |
-| Naidu Bendi#7077                     | [018](https://user-images.githubusercontent.com/130555117/234933434-a6a022db-2bf2-4c0f-b1aa-7794d577d28c.png)  |
-| succ_#2864                           | [016](https://user-images.githubusercontent.com/130555117/234932338-05898873-7d0d-4965-81a3-f158b4db5c9a.png)  |
-| Raventric#6253                       | [015](https://user-images.githubusercontent.com/130555117/234932242-f99787ef-727d-4f49-a734-03d35ccad49f.png)  |
-| Godsgallows#9665                     | [013](https://user-images.githubusercontent.com/130555117/234932114-339d8391-3588-4ebd-918c-afd0ecc6df2f.png)  |
-| CidReaper#6535                       | [009](https://user-images.githubusercontent.com/130555117/234932025-266aad04-b77c-4882-87bf-af394e9b7f3e.png)  |
-| Genesiss#0125                        | [007](https://user-images.githubusercontent.com/130555117/234931778-c4196814-f5e3-40ee-9786-0413926bf453.png)  |
-| Mizz141(Schrödingers Autism)         | [006](https://user-images.githubusercontent.com/130555117/234931256-e18c0707-1830-46f4-a9f4-de85c7e01b24.png) / [237](https://user-images.githubusercontent.com/130555117/234931461-9b5f0c58-b0ef-4973-a635-57c5ab6a2535.png)  |
+| 🥇 ankh#8694                         | [234](https://github.com/snackbxx/lore/assets/61562681/2083c472-27bc-4fc4-bff3-b3f31b6cbf9e) |
+| 🥈 izumi06                           | [199](https://github.com/snackbxx/lore/assets/61562681/5d69da95-f94d-41ae-a5de-e3047829a9d0) |
+| 🥉 shisueza#0232                     | [196](https://github.com/snackbxx/lore/assets/61562681/b58978b7-e62e-4348-b4fd-af402a893a90) |
+| Scrad#0685                           | [187](https://github.com/snackbxx/lore/assets/61562681/f4dacac3-f5d0-4c67-83da-f33f4a037caf) |
+| Mawile#9390                          | [176](https://github.com/snackbxx/lore/assets/61562681/7f092327-ce4c-49ff-bb05-fce907509e83) |
+| Pika-Pika-Penis#6981 (Pukito)        | [176](https://github.com/snackbxx/lore/assets/61562681/28766d96-a03c-4e4d-b453-1db0755950ec) |
+| Jimbo#9153                           | [175](https://github.com/snackbxx/lore/assets/61562681/b7bf2ad0-9844-4d6a-bd38-20b865ccfda7) |
+| pears#2760                           | [171](https://github.com/snackbxx/lore/assets/61562681/62b9b43d-09fc-4c9d-a058-2f39963df21e) |
+| Ril#4273                             | [171](https://github.com/snackbxx/lore/assets/61562681/1bc7eefe-826b-4198-902f-e4b1ba4b79d4) |
+| smolkitten#6314                      | [167](https://github.com/snackbxx/lore/assets/61562681/3ccb6fda-7de1-4ba8-b0be-0d81186c71e2) |
+| цареубийца#6150 (regicidio/scourge)  | [159](https://github.com/snackbxx/lore/assets/61562681/26f13370-f731-476a-a064-f47c9d8dac4a) |
+| TechnoJo4#1337                       | [147](https://github.com/snackbxx/lore/assets/61562681/e9f0ace4-c78f-4e01-9eaa-c0e6f4f68589) |
+| Glitching Crow#7080                  | [147](https://github.com/snackbxx/lore/assets/61562681/754bc5f1-08d5-48f8-ad2e-07c3e63d82b3) |
+| Rakkun#5951                          | [139](https://github.com/snackbxx/lore/assets/61562681/c809883d-89fd-43c3-b4e2-d776ced146e4) |
+| KangChan56#4861                      | [135](https://github.com/snackbxx/lore/assets/61562681/0227b724-598e-4ef9-84bc-479a388a2377) |
+| intuol#6293                          | [134](https://github.com/snackbxx/lore/assets/61562681/6ab2116a-e916-4f56-a203-714b29b6e5ba) |
+| BabyMikuChan#0101                    | [131](https://github.com/snackbxx/lore/assets/61562681/90302ccb-9bbe-4c3b-a958-8131925215bc) |
+| John Titor#4788                      | [120](https://github.com/snackbxx/lore/assets/61562681/95346315-591e-4b0f-8d29-7e83546a7d3a) |
+| DarkSwordsman#0001                   | [109](https://github.com/snackbxx/lore/assets/61562681/a912ae8b-b601-44ed-befd-5fae64f88f95) |
+| SeaSmoke#0002                        | [108](https://github.com/snackbxx/lore/assets/61562681/08242148-f8d8-4b26-91a9-572e844e7430) |
+| MXX#9683                             | [094](https://github.com/snackbxx/lore/assets/61562681/fa8ae816-5a5e-42ff-aa53-ae1e5c756b64) |
+| Pulkit200#2009                       | [092](https://github.com/snackbxx/lore/assets/61562681/a836be43-fc27-4de9-ae3a-cbb839f43b4a) |
+| aro#1727                             | [090](https://github.com/snackbxx/lore/assets/61562681/299ceb03-eb0e-4e53-a077-30586dad6f55) |
+| ShoeChicken#6786                     | [090](https://github.com/snackbxx/lore/assets/61562681/7f522a5a-d781-4dc7-87cf-6bd8259893dc) |
+| cross#6727                           | [087](https://github.com/snackbxx/lore/assets/61562681/7ed6f9c5-bb8b-46d2-a46e-7fc71272c2f4) |
+| BlazingTruth#4044                    | [087](https://github.com/snackbxx/lore/assets/61562681/3aebdd32-3aaf-4db4-a7ec-ca4e88cfb328) |
+| Nish#6661                            | [085](https://github.com/snackbxx/lore/assets/61562681/ab191c5a-0d7f-42b0-840f-182d13ee7414) |
+| karma#7928                           | [083](https://github.com/snackbxx/lore/assets/61562681/a0451997-2fae-4cd9-bacf-5260cb6ef738) |
+| ThaUnknown_#3951                     | [080](https://github.com/snackbxx/lore/assets/61562681/3504d454-1eea-48e8-8461-cbaba7355487) |
+| guyman#4884                          | [078](https://github.com/snackbxx/lore/assets/61562681/f5e65228-4d79-46eb-b0cb-84d0dc2d4906) |
+| Problemsolver4ever#1559              | [071](https://github.com/snackbxx/lore/assets/61562681/6682f046-4f90-48f3-b805-250d9948b030) |
+| [REDACTED]#2110                      | [063](https://github.com/snackbxx/lore/assets/61562681/911765db-1b19-4286-939b-349ed3bc3cfb) |
+| ashanti#8233                         | [063](https://github.com/snackbxx/lore/assets/61562681/ab9a5b83-75c9-4517-847c-314f9c0cd693) |
+| homer#0845                           | [057](https://github.com/snackbxx/lore/assets/61562681/be68ff4b-d314-48a0-b3a0-316722082525) |
+| Vodes#6262                           | [057](https://github.com/snackbxx/lore/assets/61562681/1ccf00c5-01c3-4a61-a8d3-f01e35c8711b) |
+| source#5843                          | [042](https://github.com/snackbxx/lore/assets/61562681/616368f6-7576-4798-8377-7b882b13f9f8) |
+| Nokination#2225                      | [041](https://github.com/snackbxx/lore/assets/61562681/4af06e96-4c24-439f-8050-4a55fcd18776) |
+| Legionaire#6645                      | [041](https://github.com/snackbxx/lore/assets/61562681/9a1999ce-9b5b-4e5a-af41-b2ba0e9c0010) |
+| V01#8183                             | [030](https://github.com/snackbxx/lore/assets/61562681/6ba08035-1898-476d-9ef0-1abf482d5934) |
+| SXX#0401                             | [028](https://github.com/snackbxx/lore/assets/61562681/8449bead-70a8-4f67-a9c9-74a6396ae4a6) |
+| bankai_phonk#7658                    | [027](https://github.com/snackbxx/lore/assets/61562681/0dab0812-5bc1-416a-a1da-dee7464d033b) |
+| DankMemz#7979                        | [022](https://github.com/snackbxx/lore/assets/61562681/20cdf4cb-3795-4cbd-be29-6ad40a42216b) |
+| RainingTerror#0365                   | [020](https://github.com/snackbxx/lore/assets/61562681/8de42d54-af7e-496a-b3c5-9ef290786ffd) |
+| Naidu Bendi#7077                     | [018](https://github.com/snackbxx/lore/assets/61562681/cd3fdd4e-98b2-4db1-a7b8-5f6faca5f038) |
+| succ_#2864                           | [016](https://github.com/snackbxx/lore/assets/61562681/d1e8bca6-7f7f-4160-aa07-f65c2d5172bc) |
+| Raventric#6253                       | [015](https://github.com/snackbxx/lore/assets/61562681/c4b4179c-974d-4858-b3d5-4f34a23a4722) |
+| Godsgallows#9665                     | [013](https://github.com/snackbxx/lore/assets/61562681/e05da262-ad86-4660-9b75-b44a7ebc1037) |
+| CidReaper#6535                       | [009](https://github.com/snackbxx/lore/assets/61562681/7ea41e38-c47b-4806-b850-eaedc8628812) |
+| Genesiss#0125                        | [007](https://github.com/snackbxx/lore/assets/61562681/266deb13-e86d-4be8-83e3-95254b2ecd57) |
+| Mizz141(Schrödingers Autism)         | [006](https://github.com/snackbxx/lore/assets/61562681/24f53299-44b4-4932-a1a7-e8a68e26da65) / [237](https://github.com/snackbxx/lore/assets/61562681/5d11c596-c355-43da-9bf9-7b56be742381) |
 
 
 **Current Lowest: Genesiss#0125**  
@@ -76,12 +76,12 @@ https://embrace-autism.com/raads-r/#test
 
 ## Super Autists
 
-[![Ankh](https://user-images.githubusercontent.com/130555117/235988086-a567b8d8-5ed1-4371-887b-556f8740194b.png "Ankh")](https://user-images.githubusercontent.com/130555117/235988086-a567b8d8-5ed1-4371-887b-556f8740194b.png"Ankh")
-[![aro2](https://user-images.githubusercontent.com/130555117/235988294-9a698765-f3b0-403e-95d8-66c4b6509056.png "aro2")](https://user-images.githubusercontent.com/130555117/235988294-9a698765-f3b0-403e-95d8-66c4b6509056.png "aro2")
-[![aro](https://user-images.githubusercontent.com/130555117/235988903-914d3057-c0c3-4f6f-bd95-9a2a1b6f2346.png "aro")](https://user-images.githubusercontent.com/130555117/235988903-914d3057-c0c3-4f6f-bd95-9a2a1b6f2346.png "aro")
-[![regicidio](https://user-images.githubusercontent.com/130555117/235990020-63350a4b-73bb-4a70-a486-f712cc56e0b5.png "regicidio")](https://user-images.githubusercontent.com/130555117/235990020-63350a4b-73bb-4a70-a486-f712cc56e0b5.png "regicidio")
-[![Ril](https://user-images.githubusercontent.com/130555117/235990212-91796768-333b-401e-bb88-051f3553f1dc.png "Ril")](https://user-images.githubusercontent.com/130555117/235990212-91796768-333b-401e-bb88-051f3553f1dc.png "Ril")
-[![Scrad](https://user-images.githubusercontent.com/130555117/235990492-cc8cc0d4-7875-4534-b254-c3dbbc7c717d.png "Scrad")](https://user-images.githubusercontent.com/130555117/235990492-cc8cc0d4-7875-4534-b254-c3dbbc7c717d.png "Scrad")
-[![SeaSmoke](https://user-images.githubusercontent.com/130555117/235990926-cbf0b766-6710-432b-ab70-bbbc7d946911.png "SeaSmoke")](https://user-images.githubusercontent.com/130555117/235990926-cbf0b766-6710-432b-ab70-bbbc7d946911.png "SeaSmoke")
-[![shisueza](https://user-images.githubusercontent.com/130555117/235991100-4499cf6d-cbb8-46cc-a6a2-19eb21255fc0.png "shisueza")](https://user-images.githubusercontent.com/130555117/235991100-4499cf6d-cbb8-46cc-a6a2-19eb21255fc0.png "shisueza")
-[![TheAnimeCompletionist](https://user-images.githubusercontent.com/130555117/235991361-3d194122-7c9e-4e5e-a010-a15a5497659c.png "TheAnimeCompletionist")](https://user-images.githubusercontent.com/130555117/235991361-3d194122-7c9e-4e5e-a010-a15a5497659c.png "TheAnimeCompletionist")
+![Ankh](https://github.com/snackbxx/lore/assets/61562681/172a1c41-bafe-4201-aa68-48c92e0305e7 "Ankh")
+![aro2](https://github.com/snackbxx/lore/assets/61562681/eccbe53a-edcf-4e35-8174-f6e0554333d7 "aro2")
+![aro](https://github.com/snackbxx/lore/assets/61562681/5a335f99-e1e7-4146-a97b-a55fb4124b2d "aro")
+![regicidio](https://github.com/snackbxx/lore/assets/61562681/6cfdf0bf-0382-433c-bd66-db47e543ac51 "regicidio")
+![Ril](https://github.com/snackbxx/lore/assets/61562681/688cb75f-535f-4d33-b815-bffc69309da5 "Ril")
+![Scrad](https://github.com/snackbxx/lore/assets/61562681/c12b3423-5658-42ec-8ad5-12d4add9d0fd "Scrad")
+![SeaSmoke](https://github.com/snackbxx/lore/assets/61562681/f1c06fe9-2d04-42f5-9c30-43c8584802d3 "SeaSmoke")
+![shisueza](https://github.com/snackbxx/lore/assets/61562681/e99dfeca-21a3-4110-b183-2f7b4b7ce102 "shisueza")
+![TheAnimeCompletionist](https://github.com/snackbxx/lore/assets/61562681/8c4d5a47-9709-41e1-9fb5-51c076438805 "TheAnimeCompletionist")
