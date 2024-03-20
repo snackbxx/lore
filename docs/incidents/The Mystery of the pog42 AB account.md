@@ -4,7 +4,7 @@ label: The Mystery of the pog42 AB account
 
 # The Mystery of the pog42 AB account
 
-![pog42250](https://github.com/snackbxx/lore/assets/144387416/088bb77f-3521-4102-b34d-ecb9a16c8c73)
+![](https://github.com/snackbxx/lore/assets/144387416/088bb77f-3521-4102-b34d-ecb9a16c8c73)
 
 
 ## Introduction
