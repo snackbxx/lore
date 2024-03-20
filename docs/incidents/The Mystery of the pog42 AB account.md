@@ -4,6 +4,9 @@ label: The Mystery of the pog42 AB account
 
 # The Mystery of the pog42 AB account
 
+![pog42250](https://github.com/snackbxx/lore/assets/144387416/088bb77f-3521-4102-b34d-ecb9a16c8c73)
+
+
 ## Introduction
 
 Once upon a time, in the vast expanse of the internet, there existed whispers of a legendary AnimeBytes account known only as "pog42." Tales of its existence spread like wildfire among the anime community, with some claiming to have stumbled upon the profile while others dismissed it as mere myth.
