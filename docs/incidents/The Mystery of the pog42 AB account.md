@@ -1,5 +1,7 @@
 ---
 label: The Mystery of the pog42 AB account
+image: https://github.com/snackbxx/lore/assets/144387416/088bb77f-3521-4102-b34d-ecb9a16c8c73
+description: Just who is pog42?
 ---
 
 # The Mystery of the pog42 AB account
