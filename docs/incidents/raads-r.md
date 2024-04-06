@@ -39,6 +39,7 @@ https://embrace-autism.com/raads-r/#test
 | SeaSmoke#0002                        | [108](https://github.com/snackbxx/lore/assets/61562681/08242148-f8d8-4b26-91a9-572e844e7430) |
 | MXX#9683                             | [094](https://github.com/snackbxx/lore/assets/61562681/fa8ae816-5a5e-42ff-aa53-ae1e5c756b64) |
 | Pulkit200#2009                       | [092](https://github.com/snackbxx/lore/assets/61562681/a836be43-fc27-4de9-ae3a-cbb839f43b4a) |
+| real.niko                            | [092](https://github.com/snackbxx/lore/assets/61562681/457dcdf1-d965-44ad-bdfc-8418d701f06b) |
 | aro#1727                             | [090](https://github.com/snackbxx/lore/assets/61562681/299ceb03-eb0e-4e53-a077-30586dad6f55) |
 | ShoeChicken#6786                     | [090](https://github.com/snackbxx/lore/assets/61562681/7f522a5a-d781-4dc7-87cf-6bd8259893dc) |
 | cross#6727                           | [087](https://github.com/snackbxx/lore/assets/61562681/7ed6f9c5-bb8b-46d2-a46e-7fc71272c2f4) |
@@ -65,6 +66,7 @@ https://embrace-autism.com/raads-r/#test
 | Raventric#6253                       | [015](https://github.com/snackbxx/lore/assets/61562681/c4b4179c-974d-4858-b3d5-4f34a23a4722) |
 | Godsgallows#9665                     | [013](https://github.com/snackbxx/lore/assets/61562681/e05da262-ad86-4660-9b75-b44a7ebc1037) |
 | CidReaper#6535                       | [009](https://github.com/snackbxx/lore/assets/61562681/7ea41e38-c47b-4806-b850-eaedc8628812) |
+| lunarmint                            | [009](https://github.com/snackbxx/lore/assets/61562681/d9d715bc-8248-4767-a0ee-7ecd4b8593fc) |
 | Genesiss#0125                        | [007](https://github.com/snackbxx/lore/assets/61562681/266deb13-e86d-4be8-83e3-95254b2ecd57) |
 | Mizz141(Schrödingers Autism)         | [006](https://github.com/snackbxx/lore/assets/61562681/24f53299-44b4-4932-a1a7-e8a68e26da65) / [237](https://github.com/snackbxx/lore/assets/61562681/5d11c596-c355-43da-9bf9-7b56be742381) |
 
