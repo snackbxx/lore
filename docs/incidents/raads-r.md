@@ -71,10 +71,10 @@ https://embrace-autism.com/raads-r/#test
 | mizz141                              | Mizz141(Schrödingers Autism)         | [006](https://github.com/snackbxx/lore/assets/61562681/24f53299-44b4-4932-a1a7-e8a68e26da65) / [237](https://github.com/snackbxx/lore/assets/61562681/5d11c596-c355-43da-9bf9-7b56be742381) |
 
 
-**Current Lowest: Genesiss#0125**  
-**Current Highest: ankh#8694**  
-**Average Score: 93.5**  
-**Known Autistic Staff: Jimbo, Munch**
+**Current Lowest: genesiss**  
+**Current Highest: ankh**  
+**Average Score: 94.9**  
+**Known Autistic Staff: jimbo, munchipo**
 
 ## Super Autists
 
