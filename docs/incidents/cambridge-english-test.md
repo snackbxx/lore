@@ -16,6 +16,7 @@ The test comprises 25 questions, each worth one point, with a perfect score of 2
 |----------------------------------|---------------------------------------------------------------------------------------------|----------------|
 | DankMemz                         | [25](https://github.com/snackbxx/lore/assets/78981416/ad90caf2-71b1-4a68-adef-6903f7c51d87) | Yes            |
 | Jimbo                            | [25](https://github.com/snackbxx/lore/assets/78981416/8a294436-a020-49f1-bcb2-d55308cd144d) | Yes            |
+| Munchipo                         | [25](https://github.com/snackbxx/lore/assets/78981416/601a70a8-1814-4a12-aa7b-9c4c0e7cabde) | Yes            |
 | Noyr                             | [25](https://github.com/snackbxx/lore/assets/78981416/e36985d9-e8c2-44dd-ba60-4499d19cbb5a) | No             |
 | RainingTerror                    | [25](https://github.com/snackbxx/lore/assets/78981416/d9978d2a-a325-4867-8366-abc63d069fba) | Yes            |
 | Ravencentric                     | [25](https://github.com/snackbxx/lore/assets/78981416/bbbf7aa3-cd37-4e47-b22f-d34f802bf318) | No             |
