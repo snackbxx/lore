@@ -1,5 +1,6 @@
 ---
 label: Cambridge General English Test
+image: https://github.com/snackbxx/lore/assets/78981416/7fd68440-ff6c-4d36-8566-1f5220813fd0
 ---
 
 # Cambridge General English Test
@@ -36,10 +37,11 @@ The test comprises 25 questions, each worth one point, with a perfect score of 2
 | Broadcasthenet (guyman/manfig)   | [05](https://github.com/snackbxx/lore/assets/78981416/3375e359-e67b-4df0-9f75-e74715ec164e) | Yes            |
 | Check_6 (Carson/Northstar)       | [00](https://github.com/snackbxx/lore/assets/78981416/4ed252c1-37ec-47c7-bf56-5a6d720394dc) | Complicated    |
 
-!!! Tips
+## Tips
+
 ![image](https://github.com/snackbxx/lore/assets/78981416/54bbe847-7b2b-4823-8d89-d2390e773c4a)
+
 ![image](https://github.com/snackbxx/lore/assets/78981416/3e050e7f-e446-4dad-bc80-677b44cab7af)
-!!!
 
 ## Screenshots
 
