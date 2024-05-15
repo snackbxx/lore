@@ -3,5 +3,5 @@ label: Scourgeofgrozny
 ---
 
 # Scourgeofgrozny
-A many of *too* many names.
+A man of *too* many names.
 
