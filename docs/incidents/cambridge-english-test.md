@@ -24,6 +24,7 @@ The test comprises 25 questions, each worth one point, with a perfect score of 2
 | Dusk_awi                         | [24](https://github.com/snackbxx/lore/assets/78981416/04846c83-dad9-4143-91a8-54ae2194d3fa) | ?              |
 | Nokination                       | [24](https://github.com/snackbxx/lore/assets/78981416/fe13dfbb-3294-46d8-9a7c-81a3abd9b21e) | Yes            |
 | Succ_                            | [24](https://github.com/snackbxx/lore/assets/78981416/660dd9f2-18e5-4e08-9e11-7fae02c6d58a) | No             |
+| aromanga                         | [23](https://github.com/snackbxx/lore/assets/78981416/ca46eac1-4831-4390-acb0-d4286c1affff) | No             |
 | \_MXX\_                          | [23](https://github.com/snackbxx/lore/assets/78981416/62309ee9-2960-41fe-a7dc-34bf9edcd9d5) | No             |
 | B3sil                            | [23](https://github.com/snackbxx/lore/assets/78981416/9420d3cd-f6d5-4de9-930f-40dccb2dcab7) | Yes            |
 | Nish7009                         | [23](https://github.com/snackbxx/lore/assets/78981416/61a27066-8243-4df5-8af5-cfcc966ede54) | No             |
@@ -53,6 +54,8 @@ The test comprises 25 questions, each worth one point, with a perfect score of 2
 ![image](https://github.com/snackbxx/lore/assets/78981416/1bc01dff-3de1-4f3f-aef5-4cf45a308561)
 
 ![image](https://github.com/snackbxx/lore/assets/78981416/5d6eb398-18d7-4320-89cd-d83b80c7e358)
+
+![image](https://github.com/snackbxx/lore/assets/78981416/50a55b53-b822-4c4d-9224-0a0312d76c76)
 
 
 
