@@ -30,6 +30,7 @@ The test comprises 25 questions, each worth one point, with a perfect score of 2
 | Retneemankcin                    | [23](https://github.com/snackbxx/lore/assets/78981416/10262a98-a2bb-4707-9762-ffb727c279ab) | Yes            |
 | Lunar.txt                        | [22](https://github.com/snackbxx/lore/assets/78981416/b55fd8a9-2ed7-4bab-a795-7ac5e0eb9f05) | No             |
 | Vibe                             | [21](https://github.com/snackbxx/lore/assets/78981416/2a06aaca-dfab-436c-ae06-fe16cf88c7f3) | No             |
+| Homer1024                        | [19](https://github.com/snackbxx/lore/assets/78981416/1556ff19-fb58-4d15-ad92-4cb47c44fe48) | No             |
 | Ifuckedyourmomlastnight (rakkun) | [19](https://github.com/snackbxx/lore/assets/78981416/511da35d-6cf4-4dda-9efc-a199a6abfabd) | No             |
 | Desbond                          | [18](https://github.com/snackbxx/lore/assets/78981416/0678e756-8b17-4eaa-aade-2e55cdfc7899) | No             |
 | Intuol                           | [18](https://github.com/snackbxx/lore/assets/78981416/ef60848a-f0fa-46d0-9c61-548f12602d98) | Yes            |
