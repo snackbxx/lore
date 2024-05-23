@@ -1,4 +1,4 @@
-url: thelore.moe
+url: lore.snackbox.moe
 
 input: ./docs
 
@@ -6,7 +6,7 @@ branding:
   title: The Lore
 
 edit:
-  repo: "https://github.com/snackbxx/thelore/edit/"
+  repo: "https://github.com/snackbxx/lore/edit/"
   base: /docs/
   branch: "master"
   label: "Edit this page"

@@ -3,11 +3,5 @@ label: Scourgeofgrozny
 ---
 
 # Scourgeofgrozny
+A man of *too* many names.
 
-Also known as:
-
-- kyorantodo
-- regicidio
-- scourageofgrozny
-- цареубийца#6150
-- ctyd

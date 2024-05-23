@@ -4,7 +4,7 @@ label: Totoyum
 
 # Totoyum
 
-Totoyum is a snackbox server member well known for his bans in snackbox and r/animepiracy, as well as being a one-piece cock sucker.
+Totoyum is a Snackbox server member well known for his bans in Snackbox and r/animepiracy, as well as being a one-piece cock sucker.
 
 He was banned in the discord server and r/animepiracy for the following reasons:
 
