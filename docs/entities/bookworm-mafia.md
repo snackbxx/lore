@@ -42,6 +42,12 @@ Other (possible) members who've only started to be indoctrinated include:
 
 ![](https://files.catbox.moe/qm9kdv.png)
 
+![](https://files.catbox.moe/mrmucq.png)
+
+![](https://files.catbox.moe/9btfck.png)
+
+![](https://files.catbox.moe/8bfabf.png)
+
 ### Enough to willingly give up limbs
 
 ![To be fair, this is just one of them](https://files.catbox.moe/xc92w5.png)
