@@ -55,7 +55,7 @@ Ranked leaderboard of members RAADS-R scores
 | 30                   | dapop22                 | karma#7928                          | [083](https://github.com/snackbxx/lore/assets/61562681/a0451997-2fae-4cd9-bacf-5260cb6ef738) |
 | 31                   | thaunknown_             | ThaUnknown_#3951                    | [080](https://github.com/snackbxx/lore/assets/61562681/3504d454-1eea-48e8-8461-cbaba7355487) |
 | 32                   | broadcasthenet          | guyman#4884                         | [078](https://github.com/snackbxx/lore/assets/61562681/f5e65228-4d79-46eb-b0cb-84d0dc2d4906) |
-| 33                   | retneemakcin            |                                     | [072](/static/incidents/raads-r/retneemakcin.png) |
+| 33                   | retneemankcin           |                                     | [072](/static/incidents/raads-r/retneemankcin.png) |
 | 34                   |                         | Problemsolver4ever#1559             | [071](https://github.com/snackbxx/lore/assets/61562681/6682f046-4f90-48f3-b805-250d9948b030) |
 | 35                   | redcated                | [REDACTED\]#2110                    | [063](https://github.com/snackbxx/lore/assets/61562681/911765db-1b19-4286-939b-349ed3bc3cfb) |
 | 36                   | solemnsoldier           | ashanti#8233                        | [063](https://github.com/snackbxx/lore/assets/61562681/ab9a5b83-75c9-4517-847c-314f9c0cd693) |
